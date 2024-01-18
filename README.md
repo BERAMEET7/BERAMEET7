@@ -2,9 +2,15 @@
 # Hello, I'm Meet Bera 👋 :  ![Profile Views](https://komarev.com/ghpvc/?username=BERAMEET7)
 <details>
   <summary>ABOUT ME</summary>
-I'm passionate About Full Stack developement dedicated to crafting exceptional digital experiences. <br>
+  
+  ---
+  
+**I'm passionate About Full Stack developement** dedicated to crafting exceptional digital experiences. <br>
 I specialize in HTML5, CSS3 ,Talwind CSS & JavaScript and React.js for the frontend development.<br>
 For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
+
+---
+
 
   ## 🔧 Skills & Tools
 
