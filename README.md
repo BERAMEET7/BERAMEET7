@@ -24,13 +24,10 @@ For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
 
 ---
 
-[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=BERAMEET7&repo=codsoft&theme=radical&show_owner=true&repo_color=blue&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/your-username/your-repo)
-[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=BERAMEET7&repo=blogapp&theme=radical&show_owner=true&repo_color=blue&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)](https://github.com/your-username/your-repo)
-
 ## Github Info
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BERAMEET7&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BERAMEET7&layout=compact&theme=radical)
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BERAMEET7&count_private=true&show_icons=true&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BERAMEET7&theme=nord)
+
