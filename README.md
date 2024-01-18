@@ -1,8 +1,19 @@
-# Hello, I'm Meet Bera 👋
+
+# Hello, I'm Meet Bera 👋   ![Profile Views](https://komarev.com/ghpvc/?username=BERAMEET7)
 
 **I'm passionate About Full Stack developement** dedicated to crafting exceptional digital experiences. <br>
 I specialize in HTML5, CSS3 ,Talwind CSS & JavaScript and React.js for the frontend development.<br>
 For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
+
+## Github Info
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BERAMEET7&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BERAMEET7&layout=compact&theme=radical)
+---
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BERAMEET7&count_private=true&show_icons=true&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BERAMEET7&theme=nord)
+
+
 
 ## 🔧 Skills & Tools
 
@@ -17,3 +28,6 @@ For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
 - Email: [berameet008@gmail.com](mailto:berameet008@gmail.com)
 - LinkedIn: [berameet](https://www.linkedin.com/in/berameet/)
 - Instagram: [_meet_bera_](https://www.instagram.com/_meet_bera_/)
+- ![Profile Views](https://komarev.com/ghpvc/?username=BERAMEET7)
+
+
