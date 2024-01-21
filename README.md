@@ -2,7 +2,6 @@
 # Hello, I'm Meet Bera 👋 :  ![Profile Views](https://komarev.com/ghpvc/?username=BERAMEET7)
 
 ----
-----
 <details>
   <summary>ABOUT ME</summary>
   
