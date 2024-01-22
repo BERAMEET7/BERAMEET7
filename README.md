@@ -22,7 +22,7 @@ For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
 &nbsp;&nbsp; ![node](https://github.com/BERAMEET7/BERAMEET7/assets/130121303/3c016585-856d-4709-90d9-b7162b1e625f) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ![github](https://github.com/BERAMEET7/BERAMEET7/assets/130121303/86bf6676-43a4-4551-af68-973154417be7)
 
 
-## 📫 How to reach me
+## 📫 How to reach me.
 
 - Email: [berameet008@gmail.com](mailto:berameet008@gmail.com)
 - LinkedIn: [berameet](https://www.linkedin.com/in/berameet/)
