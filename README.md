@@ -39,7 +39,6 @@ For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
 <a href="https://www.instagram.com/_meet_bera_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_meet_bera_" height="30" width="40" /></a>
 <a href="mailto:berameet008@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bberameet008@gmail.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/berameet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
-  
 <a href="https://leetcode.com/berameet7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
 
 </p>
