@@ -15,7 +15,7 @@
 ---
 
 <h1 align="center">ABOUT ME</h1>
-<p align="center"><b>I'm passionate About Full Stack developement</b> dedicated to crafting exceptional digital experiences. <br>
+<p align="center"><b>I'm passionate About MERN Stack developement</b> dedicated to crafting exceptional digital experiences. <br>
 I specialize in HTML5, CSS3 ,Talwind CSS & JavaScript and React.js for the frontend development.<br>
 For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database</p>
 
