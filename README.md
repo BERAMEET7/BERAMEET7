@@ -1,8 +1,4 @@
 <p align="center"> <img src="https://github.com/BERAMEET7/BERAMEET7/assets/130121303/a17fdcb7-526c-4448-8421-18dd3cff34ed" /> </p>
-
-
-
-
 <h1 align="center"> 
 </div>  
 </h1>
