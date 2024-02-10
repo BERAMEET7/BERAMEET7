@@ -3,6 +3,7 @@
 </div>  
 </h1>
 <div align="center" height="fit-content">
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=30&font=poppins+sans+serif&center=true&lines=👋+Hey!+I'm+MEET+BERA;I'm+a+Web+Developer+💻)](https://git.io/typing-svg)
 
