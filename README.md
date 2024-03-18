@@ -11,7 +11,11 @@
 
 ---
 
-<h1 align="center">ABOUT ME</h1>
+<h1 align="center">
+  
+  ABOUT ME    ![Profile Views](https://komarev.com/ghpvc/?username=BERAMEET7)</h1> 
+
+
 <p align="center"><b>I'm passionate About MERN Stack developement</b> dedicated to crafting exceptional digital experiences. <br>
 I specialize in HTML5, CSS3 ,Talwind CSS & JavaScript and React.js for the frontend development.<br>
 For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database</p>
@@ -31,22 +35,32 @@ For Backend Development Node.js & Exprees.js .Use MongoDB For work with Database
 ---
 
 <div align="center">
-<h1 align="center"> CONNECT WITH ME </h1>
+<h3 align="center"> CONNECT WITH ME </h3>
 <p align="center">
-<a href="https://www.instagram.com/_meet_bera_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_meet_bera_" height="30" width="40" /></a>
-<a href="mailto:berameet008@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bberameet008@gmail.com" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/berameet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
-<a href="https://leetcode.com/berameet7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
-
+<a href="https://www.instagram.com/_meet_bera_/" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_meet_bera_" height="50"  /></a>
+<a href="mailto:berameet008@gmail.com" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bberameet008@gmail.com" height="50" /></a>
+<a href="https://www.linkedin.com/in/berameet/" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="50" /></a>
+<a href="https://leetcode.com/berameet7/" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="50"  /></a>
 </p>
 </div>
 
+---
 
-## Github Info
 
-![Profile Views](https://komarev.com/ghpvc/?username=BERAMEET7)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BERAMEET7&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BERAMEET7&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BERAMEET7&layout=compact&theme=radical)
+<div align="center">
+<h3 align="center"> GITHUB INFO </h3>
+<div>
+  
+
+<span>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BERAMEET7&layout=compact&theme=radical)</div>
+</span>
+</div>
+
+  
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BERAMEET7&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BERAMEET7&count_private=true&show_icons=true&theme=radical)</span>-->
+
 
 
